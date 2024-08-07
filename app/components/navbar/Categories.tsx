@@ -49,7 +49,7 @@ export const categories = [
   {
     label: "Islands",
     icon: GiIsland,
-    description: "This property is on an island!",
+    description: "This property is on an !",
   },
   {
     label: "Lake",
